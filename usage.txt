@@ -1,0 +1,1 @@
+python3 job.py "Project Job" "Developing a job-logging application" 25 --start_time "2024-01-05 20:00:00" --finish_time "2024-01-05 20:30:00" --travel_time 1.5 --discount 0

@@ -1,0 +1,3 @@
+1. add a feature to incorporate travel time into overall bill with variable for distance, pence per mile, etc.
+
+2. the timestampt "Date and Time: 05-01-2024 T 08:00" is printing wron. its the same every time. it needs to say time log was created. i think change line 55 because it is using self.start_time.
